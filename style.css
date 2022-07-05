@@ -1,0 +1,126 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
+  margin: 2px;
+}
+
+footer {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  background-color: rgb(6, 6, 17);
+  padding: 10px 20px;
+  margin: 2px;
+}
+
+h3 {
+  font-size: 25px;
+  color: tomato;
+}
+
+#something-new {
+  color: aquamarine;
+}
+
+.help {
+  text-align: center;
+  color: white;
+  background-image: url(images/donation7.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 10% 30%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+.button {
+  text-decoration: none;
+  background-color: tomato;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+.margin {
+  margin-top: 10%;
+}
+
+.today {
+  text-align: center;
+  padding: 5% 30%;
+}
+
+.flex {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.decoration {
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 5px solid white;
+  padding: 40px 40px;
+  background-color: rgb(189, 175, 175);
+}
+
+.money {
+  border: 5px solid salmon;
+  color: salmon;
+  border-radius: 5px;
+  background-color: rgb(250, 178, 170);
+}
+
+#mail {
+  background-color: rgb(223, 181, 105);
+  padding: 10% 20%;
+}
+
+#background {
+  background-color: tomato;
+  color: white;
+  text-decoration: none;
+  padding: 5px 20px;
+}
+
+#food {
+  background-color: rgb(209, 181, 181);
+  padding: 5% 2% 5% 5%;
+  text-align: left;
+  margin: 5%;
+}
+
+.plan {
+  display: flex;
+}
+
+#shelter {
+  background-color: rgb(187, 230, 215);
+  padding: 5% 2% 5% 5%;
+  text-align: left;
+  margin: 5%;
+}
+
+#frame {
+  background-color: rgb(170, 247, 140);
+  padding: 5% 2% 5% 5%;
+  text-align: left;
+  margin: 5%;
+}
+
+.half-width {
+  width: 100%;
+}
